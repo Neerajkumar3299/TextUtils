@@ -1,0 +1,12 @@
+.container{
+    margin-top: 20px;
+    padding: 50px;
+
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgb(82, 100, 129);
+}
+.myStyle{
+
+    width: 80%;
+    margin: auto;
+}
